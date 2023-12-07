@@ -10,5 +10,7 @@ admin.site.register(AcessRecord)
 
 admin.site.register(Country)
 
-admin.site.register(States)
+admin.site.register(State)
+
+
 
