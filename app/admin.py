@@ -8,9 +8,7 @@ admin.site.register(WebPage)
 
 admin.site.register(AcessRecord)
 
-admin.site.register(Country)
 
-admin.site.register(State)
 
 
 
